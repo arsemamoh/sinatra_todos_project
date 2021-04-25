@@ -1,1 +1,1 @@
-# LS_ruby_lesson_2
+# Launch_School
